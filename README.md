@@ -1,2 +1,2 @@
 # TRSPO
-Example usage of interface and abstract class
+Repository for java laboratory works.
